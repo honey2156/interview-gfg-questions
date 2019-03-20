@@ -1,4 +1,4 @@
-#Rotate a matrix by 90 degree without using any extra space
+# Rotate a matrix by 90 degree without using any extra space
 
 Given a square matrix, turn it by 90 degrees in anti-clockwise direction without using any extra space.
 
