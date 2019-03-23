@@ -27,4 +27,4 @@ Testcase 1: 2 is found at index 1 in the given array.
 
 Geeksforgeeks link = https://practice.geeksforgeeks.org/problems/finding-number/0
 
-Note :- This approach works only when elements in array are distinct. Will not work with duplicates.
+## Note :- This approach works only when elements in array are distinct. Will not work with duplicates.
