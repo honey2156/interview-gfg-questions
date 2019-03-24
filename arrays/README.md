@@ -3,3 +3,4 @@
 * Finding number in a bitonic array
 * Reverse an Array or String
 * Find the smallest and second smallest elements in an array
+* Find the minimum element in a sorted and rotated array
