@@ -4,3 +4,5 @@
 * Reverse an Array or String
 * Find the smallest and second smallest elements in an array
 * Find the minimum element in a sorted and rotated array
+* Segregate 0s and 1s in an array
+
