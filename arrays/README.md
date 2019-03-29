@@ -6,3 +6,4 @@
 * Find the minimum element in a sorted and rotated array
 * Segregate 0s and 1s in an array
 * Sort an array of 0s, 1s and 2s
+* Rearrange positive and negative numbers alternatingly
