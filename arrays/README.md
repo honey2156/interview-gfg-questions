@@ -8,3 +8,4 @@
 * Sort an array of 0s, 1s and 2s
 * Rearrange positive and negative numbers alternatingly
 * First repeating element in array
+* Maximize Number of 1's 
